@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="f53b1aa4-f493-42c4-a8f2-111d11486af3" name="fanchencloud">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

@@ -3,9 +3,10 @@
     <option name="highContrast" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="accentColor" value="84ffff" />
     <option name="selectedTheme" value="DEEPOCEAN" />
-    <option name="userId" value="68d5c39a:176970e3bcc:-8000" />
+    <option name="userId" value="-30ab6f2e:17633a66883:-8000" />
     <option name="version" value="5.5.0" />
   </component>
 </application>
