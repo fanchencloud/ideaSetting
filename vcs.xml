@@ -34,6 +34,14 @@
           <option name="url" value="https://hub.fastgit.org/cjbi/wetech-admin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/qianliangchang/depot-system.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://hub.fastgit.org/qianliangchang/depot-system.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\IdeaProjects" />
